@@ -33,7 +33,7 @@ Then open Insomnia and type http://localhost:3000/ to run this application on yo
 
 ## Deployed Link
 
-The link to the deployed application is: https://jate-bfguo.herokuapp.com/.
+The link to the deployed application is: 
 
 
 ## Demo
